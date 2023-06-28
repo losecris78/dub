@@ -1,0 +1,55 @@
+/*
+https://coolors.co/2d2da4-baba54-fcfcfe-7e7d29-d2d158
+/* CSS HEX 
+--international-klein-blue: #2d2da4ff;
+--citron: #baba54ff;
+--white: #fcfcfeff;
+--olive: #7e7d29ff;
+--citron-2: #d2d158ff;
+
+/* CSS HSL 
+--international-klein-blue: hsla(240, 57%, 41%, 1);
+--citron: hsla(60, 43%, 53%, 1);
+--white: hsla(240, 50%, 99%, 1);
+--olive: hsla(59, 51%, 33%, 1);
+--citron-2: hsla(60, 58%, 58%, 1);
+
+/* SCSS HEX 
+$international-klein-blue: #2d2da4ff;
+$citron: #baba54ff;
+$white: #fcfcfeff;
+$olive: #7e7d29ff;
+$citron-2: #d2d158ff;
+
+/* SCSS HSL 
+$international-klein-blue: hsla(240, 57%, 41%, 1);
+$citron: hsla(60, 43%, 53%, 1);
+$white: hsla(240, 50%, 99%, 1);
+$olive: hsla(59, 51%, 33%, 1);
+$citron-2: hsla(60, 58%, 58%, 1);
+
+/* SCSS RGB 
+$international-klein-blue: rgba(45, 45, 164, 1);
+$citron: rgba(186, 186, 84, 1);
+$white: rgba(252, 252, 254, 1);
+$olive: rgba(126, 125, 41, 1);
+$citron-2: rgba(210, 209, 88, 1);
+
+/* SCSS Gradient 
+$gradient-top: linear-gradient(0deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-right: linear-gradient(90deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-bottom: linear-gradient(180deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-left: linear-gradient(270deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-top-right: linear-gradient(45deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-bottom-right: linear-gradient(135deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-top-left: linear-gradient(225deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-bottom-left: linear-gradient(315deg, #2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);
+$gradient-radial: radial-gradient(#2d2da4ff, #baba54ff, #fcfcfeff, #7e7d29ff, #d2d158ff);*/
+
+h1,h2,h3{
+    font-family: 'Cherry Bomb One', cursive;
+}
+p{
+    font-family: 'Kanit', sans-serif;
+
+}

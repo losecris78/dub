@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+h1,h2,h3{
+    font-family: 'Cherry Bomb One', cursive;
+}
+p{
+    font-family: 'Kanit', sans-serif;
+
+}
+.top_head{
+    background-color: #7e7d29ff;;
+}
+h1{
+    background-color: #2d2da4ff;
+    color:#baba54ff ;
+    font-size: 1.2rem;
+    width: fit-content;
+    padding: 1.3vw;
+    margin: 1rem auto;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    flex:1 1;
+}
